@@ -1,0 +1,1 @@
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.Models\obj\Debug\net5.0-windows\SchoolManagement.Models.csprojAssemblyReference.cache

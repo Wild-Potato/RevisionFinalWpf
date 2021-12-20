@@ -1,0 +1,5 @@
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.UI\obj\Debug\net5.0-windows\SchoolManagement.UI.csprojAssemblyReference.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.UI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.UI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.UI\obj\Debug\net5.0-windows\SchoolManagement.UI_MarkupCompile.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\Separationdesprojets\SchoolManagement.UI\SchoolManagement.UI\obj\Debug\net5.0-windows\SchoolManagement.UI_MarkupCompile.lref

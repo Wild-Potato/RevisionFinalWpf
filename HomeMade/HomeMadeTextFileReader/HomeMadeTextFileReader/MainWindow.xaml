@@ -1,0 +1,36 @@
+﻿<Window x:Class="HomeMadeTextFileReader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeMadeTextFileReader"
+        xmlns:p="clr-namespace:HomeMadeTextFileReader.Properties"
+        mc:Ignorable="d"
+        Title="{x:Static p:Resources.WindowTitle}" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem x:Name="FileMenu" Header="{x:Static p:Resources.FileMenu}">
+                <MenuItem x:Name="MenuLangage" Header="{x:Static p:Resources.MenuLangage}" >
+                    <MenuItem x:Name="MenuFr" Command="{Binding ChangeLanguageCommand}" CommandParameter="fr-CA" Header="{x:Static p:Resources.MenuFr}"/>
+                    <MenuItem x:Name="MenuEn" Command="{Binding ChangeLanguageCommand}" CommandParameter="en" Header="{x:Static p:Resources.MenuEn}"/>
+                </MenuItem>
+                <MenuItem x:Name="FileMenuOpen" Header="{x:Static p:Resources.FileMenuOpen}" Command="{Binding OpenFileDialogCommand}"/>
+                <MenuItem x:Name="FileMenuSave" Header="{x:Static p:Resources.FileMenuSave}" Command="{Binding SaveFileDialogCommand}"/>
+            </MenuItem>
+        </Menu>
+       
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="BigHelloButton" Content="{x:Static p:Resources.BigHelloButton}"  Command="{Binding HelloButtonCommand}"/>
+            <TextBlock x:Name="MaybeText" Grid.Row="0" Grid.Column="1" Text="{x:Static p:Resources.MaybeText}"></TextBlock>
+
+        </Grid>
+    </DockPanel>
+</Window>

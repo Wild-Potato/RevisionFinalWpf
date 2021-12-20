@@ -1,0 +1,19 @@
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.exe
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.deps.json
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.runtimeconfig.json
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.runtimeconfig.dev.json
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.dll
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\bin\Debug\netcoreapp3.1\WPF MVVM BibliJeux.pdb
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.csprojAssemblyReference.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux_MarkupCompile.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux_MarkupCompile.lref
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.g.resources
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.AssemblyInfoInputs.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.AssemblyInfo.cs
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.csproj.CoreCompileInputs.cache
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.dll
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.pdb
+C:\Users\raph4\OneDrive\Desktop\Session 5\Sujet Spéciaux\RecapWPF\WPF MVVM BibliJeux\WPF MVVM BibliJeux\obj\Debug\netcoreapp3.1\WPF MVVM BibliJeux.genruntimeconfig.cache

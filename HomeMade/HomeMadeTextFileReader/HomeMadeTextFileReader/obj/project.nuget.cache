@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rx+uIW2+iezQd06tks7MYonEVI+PLNWXFmp4mdKXgUByi6RhvdcGOw33N/YFEqlg6NJAEQQyw2TKxGxcdMCg2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raph4\\OneDrive\\Desktop\\FinalSujetSpeciaux\\HomeMade\\HomeMadeTextFileReader\\HomeMadeTextFileReader\\HomeMadeTextFileReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raph4\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
